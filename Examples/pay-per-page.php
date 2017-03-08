@@ -21,8 +21,8 @@
 	$amountUSD		= 0.6;				// price per page(s) - 0.6 USD
 	$period			= "24 HOUR";		// user will get access to page(s) for 24 hours; after need to pay again
 	$def_language	= "en";				// default Payment Box Language
-	$public_key		= "-your public key for coin box-"; // from gourl.io
-	$private_key	= "-your private key for coin box-";// from gourl.io
+	$public_key		= "9138AAowi9RBitcoin77BTCPUBqbJXIZuIgPUY7Ly89xywSBA0"; // from gourl.io
+	$private_key	= "9138AAowi9RBitcoin77BTCPRVSDOgAmm5W3yX5x0HnZWf0my4";// from gourl.io
 
 	// IMPORTANT: Please read description of options here - https://gourl.io/api-php.html#options  
 	

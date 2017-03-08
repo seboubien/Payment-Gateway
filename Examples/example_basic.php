@@ -19,8 +19,8 @@
 
 
 	$options = array( 
-	"public_key"  => "", 		// place your public key from gourl.io
-	"private_key" => "", 		// place your private key from gourl.io
+	"public_key"  => "9138AAowi9RBitcoin77BTCPUBqbJXIZuIgPUY7Ly89xywSBA0", 		// place your public key from gourl.io
+	"private_key" => "9138AAowi9RBitcoin77BTCPRVSDOgAmm5W3yX5x0HnZWf0my4", 		// place your private key from gourl.io
 	"webdev_key" =>  "", 		// optional, gourl affiliate key
 	"orderID"     => $orderID,  // few your users can have the same orderID but combination 'orderID'+'userID' should be unique. 
 								// for example, on premium page you can use for all visitors: orderID="premium" and userID="" (empty).

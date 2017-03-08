@@ -7,10 +7,10 @@
  *
  */
 
- define("DB_HOST", 	"localhost");				// hostname
- define("DB_USER", 	"-Please Enter Username-");		// database username
- define("DB_PASSWORD", 	"-Please Enter Password-");		// database password
- define("DB_NAME", 	"-Please Enter Database Name-");	// database name
+ define("DB_HOST", 	"lbqm.myd.infomaniak.com");				// hostname
+ define("DB_USER", 	"lbqm_BTC1");		// database username
+ define("DB_PASSWORD", 	"n9Mv7rLL7xxqgTFH6BX");		// database password
+ define("DB_NAME", 	"lbqm_BTC");	// database name
 
 
 
@@ -21,7 +21,7 @@
  *  array("your_privatekey_for_box1", "your_privatekey_for_box2 (otional), etc...");
  */
  
- $cryptobox_private_keys = array();
+ $cryptobox_private_keys = array(9138AAowi9RBitcoin77BTCPRVSDOgAmm5W3yX5x0HnZWf0my4);
 
 
 
